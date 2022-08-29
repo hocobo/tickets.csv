@@ -1,0 +1,12 @@
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\tickets.csv\bin\Debug\net6.0\tickets.csv.deps.json
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\tickets.csv\bin\Debug\net6.0\tickets.csv.dll
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\tickets.csv\bin\Debug\net6.0\tickets.csv.pdb
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\tickets.csv\obj\Debug\net6.0\tickets.csv.csproj.AssemblyReference.cache
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\tickets.csv\obj\Debug\net6.0\tickets.csv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\tickets.csv\obj\Debug\net6.0\tickets.csv.AssemblyInfoInputs.cache
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\tickets.csv\obj\Debug\net6.0\tickets.csv.AssemblyInfo.cs
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\tickets.csv\obj\Debug\net6.0\tickets.csv.csproj.CoreCompileInputs.cache
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\tickets.csv\obj\Debug\net6.0\tickets.csv.dll
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\tickets.csv\obj\Debug\net6.0\refint\tickets.csv.dll
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\tickets.csv\obj\Debug\net6.0\tickets.csv.pdb
+C:\Users\Carls\Documents\Jake School\Fall 2022 (1)\.Net Database Programming\Module 2\tickets.csv\obj\Debug\net6.0\ref\tickets.csv.dll
